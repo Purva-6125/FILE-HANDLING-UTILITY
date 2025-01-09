@@ -95,3 +95,7 @@ All existing content in the file is cleared, and the user-provided content repla
 
 Modify Specific Content:
 Existing phrases or words in the file are replaced based on user inputs for the target and replacement strings.
+
+**OUTPUT OF CODE** :
+![Screenshot (620)](https://github.com/user-attachments/assets/639e60e4-c7f4-43db-ac94-b839155e017d)
+![Screenshot (621)](https://github.com/user-attachments/assets/0d4c33e7-ffc5-4032-8ea8-9653143412f7)
